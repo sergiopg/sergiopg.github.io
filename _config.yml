@@ -1,7 +1,7 @@
 # Site
-title:              Personal Journey to Knowledge
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Sergio PG
+bio:                'Personal digital diary'
+description:        "A place to show my thoughs and feelings"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            sergiopeschiera
-facebook:           username
+facebook:           sergiopeschierag
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
